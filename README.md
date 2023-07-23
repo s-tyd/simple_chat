@@ -54,3 +54,9 @@ The following improvements are being considered for future development:
 11. **Image, Video Sending**: Support sending images and videos.
 12. **Account Linking with Email**: Implement a feature to link accounts using an email address.
 13. **Linking Message List to Room with Hive**: Use Hive to save the message list of each talk room locally.
+14. **Addition of Unit Tests**: Implement comprehensive unit testing for all application functions to ensure code reliability and prevent bugs.
+15. **Addition of ViewModels to All Views**: Incorporate the ViewModel architecture pattern in all views for efficient state management and separation of business logic.
+16. **Dark Mode and Light Mode Switching**: Allow users to switch between dark and light themes based on their preference.
+17. **Push Notification Implementation**: Ensure that users don't miss out on new messages and updates by implementing push notifications.
+18. **Offline Support**: Make some features of the application usable even when there is no network connection.
+19. **Gathering User Reviews and Feedback**: Make it easy to collect feedback from users to facilitate improvements in the app.
