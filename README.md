@@ -35,9 +35,6 @@ such as state management) is managed by respective providers. This design enhanc
 This chat application uses modern technology to provide a consistent user experience, thanks to the adoption of
 contemporary architecture and state-of-the-art technology.
 
-
-Sure, here is the updated README section:
-
 ## Future Improvements
 The following improvements are being considered for future development:
 
