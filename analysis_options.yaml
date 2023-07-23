@@ -1,0 +1,17 @@
+# https://pub.dev/packages/pedantic_mono
+include: package:pedantic_mono/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - test/**/*.mocks.dart
+    - '**/*.reflectable.dart'
+    - '**.g.dart'
+    - '**.freezed.dart'
+  errors:
+    invalid_annotation_target: ignore
+    sort_unnamed_constructors_first: ignore
+    no_leading_underscores_for_local_identifiers: ignore
+    use_build_context_synchronously: ignore
+    use_colored_box: ignore
+    use_decorated_box: ignore
+    flutter_style_todos: ignore
