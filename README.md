@@ -48,7 +48,7 @@ The following improvements are being considered for future development:
 5. **Addition of User Profile Images**: Support uploading and displaying user profile images.
 6. **Addition of Talk Room Icons**: Add icons to the talk rooms.
 7. **Open Corresponding Talk Room by User Tap**: Add a feature to open the corresponding talk room when tapping a username.
-8. **Multi-user Talk Room**: Implement talk rooms where multiple users can participate.
+8. **Multi-user Talk Room**: Implement a feature that allows the creation of talk rooms with multiple users.
 9. **ID Barcode Reading**: Implement a feature to read user IDs with barcodes.
 10. **Multilingual Support**: Localize the application for multiple languages.
 11. **Image, Video Sending**: Support sending images and videos.
