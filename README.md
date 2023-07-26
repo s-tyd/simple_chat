@@ -58,3 +58,6 @@ The following improvements are being considered for future development:
 18. **Offline Support**: Make some features of the application usable even when there is no network connection.
 19. **Gathering User Reviews and Feedback**: Make it easy to collect feedback from users to facilitate improvements in the app.
 
+
+# screen recording
+https://github.com/s-tyd/simple_chat/assets/28857682/b18153ec-dbc5-408c-bc48-963aada68a2a
